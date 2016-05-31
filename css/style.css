@@ -1,0 +1,47 @@
+body {
+background-color: #01022F;
+color: yellow;
+}
+
+.condition {
+  font-size: 3em;
+  color: #2018E6; 
+}
+
+.icon {
+  margin: 0px 0px 0px 0px;
+  font-size: 8em;
+}
+
+.wi{
+  color: #E2502A;
+}
+.container {
+  align: center;
+  text-align: center;
+}
+
+
+.temp {
+  display: inline-flex;
+  font-size: 4em;
+}
+.active {
+  color: green;
+}
+
+.units {
+  color: #333;
+  cursor: pointer;
+  display: inline-flex;
+  font-size: .7em;
+}
+
+.location {
+  font-size: 3em;
+  color: #B71B99;
+}
+
+.num {
+  color: #E21010;
+}
