@@ -1,2 +1,2 @@
 # simpleWeatherApp
-Simple Weather app
+Simple Weather app for FreeCodeCamp
